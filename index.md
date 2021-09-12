@@ -1,12 +1,13 @@
 ## Welcome to Happy piano
 
-I would like to put my piano study stuff on this webside.
+I would put classic piano songs with notes on this website.
 
 
 
 ### Alla turca (Türckischer Marsch)
-For more details see [TT](https://www.youtube.com/watch?v=A_THdzBnHy0).
+For more details see [Türckischer Marsch](https://www.youtube.com/watch?v=eNLeSHqzhwk).
 
+Notes:
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
