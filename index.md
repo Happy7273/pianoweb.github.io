@@ -1,10 +1,10 @@
 ## Welcome to Happy piano
 
-I would put classic piano songs with notes on this website.
+I would put classic piano songs with notes and tipps on this website.
 
 
 
-### Mozart- Rondo Alla Turca (Türckischer Marsch)
+### Mozart- Rondo Alla Turca/Sonate Nr. 11 A-Dur (Türckischer Marsch)
 For more details see [Türckischer Marsch](https://www.youtube.com/watch?v=eNLeSHqzhwk).
 
 Notes:
@@ -24,8 +24,11 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![foo](/pianoweb.github.io/alla turca page 1 tip.jpg "title")
+![avatar](/pianoweb.github.io/alla turca page 1 tip.jpg)
+![avatar](pianoweb.github.io/alla turca page 1 tip.jpg)
+[Link](url) and ![Image](https://github.com/Happy7273/pianoweb.github.io/blob/942ab92fa01a98e52d9e575ba40216ac6cb45112/alla%20turca%20page%201%20tip.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://www.youtube.com/watch?v=A_THdzBnHy0).
